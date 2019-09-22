@@ -13,11 +13,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="CNN" target="1.5" />
-      <module name="Generic" target="1.5" />
-      <module name="NewYorkTimes" target="1.5" />
-      <module name="NowThis" target="1.5" />
-      <module name="webAutomata" target="1.5" />
+      <module name="CNN" target="1.8" />
+      <module name="Generic" target="1.8" />
+      <module name="NewYorkTimes" target="1.8" />
+      <module name="NowThis" target="1.8" />
+      <module name="webAutomata" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
